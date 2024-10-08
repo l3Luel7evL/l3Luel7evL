@@ -13,11 +13,11 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Generate Language Card
-        uses: anuraghazra/github-readme-stats@v4
+        uses: l3Luel7evL/github-readme-stats@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           title: 'Top Languages'
-          username: '<your-github-username>'
+          username: 'l3Luel7evL'
           theme: 'radical'  # You can choose any theme you like
           hide_title: false
           hide_border: true
