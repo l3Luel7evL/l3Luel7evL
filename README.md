@@ -34,6 +34,29 @@ A responsive personal website showcasing my projects and skills.
 ## 🗣️ Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l3Luel7evL&layout=compact&theme=radical)
 
+## 📈 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=l3Luel7evL&theme=radical)
+
+## 📅 Contributions
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=l3Luel7evL&theme=react-dark)
+
+## ⏱️ Coding Activity
+![WakaTime](https://wakatime.com/badge/user/your-wakatime-id.svg)
+
+## 🏷️ Technologies
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+
+## 👀 Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/l3Luel7evL/count.svg)
+
+## 🗒️ Recent Activity
+![Recent Activity](https://github-readme-activity-graph.cyclic.app/graph?username=l3Luel7evL&theme=react-dark)
+
+## 🌐 Stack Overflow
+![Stack Overflow Reputation](https://img.shields.io/badge/Stack%20Overflow%20Reputation-#F48024.svg)
 
 ## 📫 Connect with Me
 - [LinkedIn](https://linkedin.com/in/yourname)
