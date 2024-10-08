@@ -33,7 +33,7 @@ A responsive personal website showcasing my projects and skills.
 
 ## 🗣️ Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l3Luel7evL&layout=compact&theme=radical)
-![Top Langs v1](https://api.github.com/users/l3Luel7evL/repos?type=all&per_page=100)
+![Top Langs v1](https://github-readme-stats.vercel.app/api/top-langs/?username=l3Luel7evL&theme=radical&hide_border=true&count_private=true)
 
 ## 📈 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=l3Luel7evL&theme=radical)
