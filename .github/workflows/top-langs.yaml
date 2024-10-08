@@ -1,0 +1,25 @@
+name: Show Top Languages
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # This will run the action every hour
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Generate Language Card
+        uses: anuraghazra/github-readme-stats@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          title: 'Top Languages'
+          username: '<your-github-username>'
+          theme: 'radical'  # You can choose any theme you like
+          hide_title: false
+          hide_border: true
+          show_icons: true
+          show_owner: true
