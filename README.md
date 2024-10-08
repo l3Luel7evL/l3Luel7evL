@@ -31,6 +31,10 @@ A responsive personal website showcasing my projects and skills.
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=l3Luel7evL&show_icons=true&theme=radical)
 
+## 🗣️ Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l3Luel7evL&layout=compact&theme=radical)
+
+
 ## 📫 Connect with Me
 - [LinkedIn](https://linkedin.com/in/yourname)
 - [Twitter](https://twitter.com/yourusername)
