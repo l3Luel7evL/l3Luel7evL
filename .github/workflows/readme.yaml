@@ -3,20 +3,42 @@ name: Update README
 on:
   push:
     branches:
-      - main
+      - main  # Change this to your main branch if it’s different
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      
+      - name: Get GitHub Stats
+        id: github_stats
+        run: |
+          TOKEN="${{ secrets.GITHUB_TOKEN }}"
+          USERNAME="l3Luel7evL"  # Replace with your GitHub username
 
-    - name: Update README with stats
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: |
-        # Get top languages
-        curl -H "Authorization: token $GITHUB_TOKEN" "https://api.github.com/users/l3Luel7evL/repos?type=private" > top_languages.json
-        # Process the JSON and update your README.md with the language stats
-        # This part requires additional scripting depending on your needs.
+          # Get GitHub stats
+          STATS=$(curl -s -H "Authorization: token $TOKEN" "https://api.github.com/users/$USERNAME/repos?per_page=100")
+          LANGUAGES=$(echo "$STATS" | jq -r '.[].language' | sort | uniq -c | sort -nr | head -n 5)
+          
+          echo "::set-output name=languages::$LANGUAGES"
+
+      - name: Update README
+        run: |
+          LANGUAGES="${{ steps.github_stats.outputs.languages }}"
+          README_FILE="README.md"
+          
+          # Insert the languages into your README.md
+          sed -i.bak "s/## 🗣️ Most Used Languages/## 🗣️ Most Used Languages\n\n\`\`\`plaintext\n$LANGUAGES\n\`\`\`/" $README_FILE
+          
+          # Remove backup file created by sed
+          rm $README_FILE.bak
+
+      - name: Commit changes
+        run: |
+          git config --local user.name "github-actions"
+          git config --local user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Update README with latest GitHub stats"
+          git push
