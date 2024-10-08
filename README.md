@@ -29,7 +29,7 @@ A responsive personal website showcasing my projects and skills.
 - [Live Demo](https://yourportfolio.com)
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=l3Luel7evL&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
 - [LinkedIn](https://linkedin.com/in/yourname)
