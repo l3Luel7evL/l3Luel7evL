@@ -1,0 +1,22 @@
+name: Update README
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Update README with stats
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        # Get top languages
+        curl -H "Authorization: token $GITHUB_TOKEN" "https://api.github.com/users/l3Luel7evL/repos?type=private" > top_languages.json
+        # Process the JSON and update your README.md with the language stats
+        # This part requires additional scripting depending on your needs.
