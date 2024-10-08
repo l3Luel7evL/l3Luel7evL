@@ -28,12 +28,18 @@ A responsive personal website showcasing my projects and skills.
 - **Technologies**: HTML, CSS, JavaScript
 - [Live Demo](https://yourportfolio.com)
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Most Used Languages
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=l3Luel7evL&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l3Luel7evL&layout=compact&theme=radical&include_private=true)
 
-## 🗣️ Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l3Luel7evL&layout=compact&theme=radical)
-![Top Langs v1](https://github-readme-stats.vercel.app/api/top-langs/?username=l3Luel7evL&theme=radical&hide_border=true&count_private=true)
+## 🏆 Achievements
+- Completed [Udacity's Full Stack Web Developer Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd0044)
+- Contributed to multiple open-source projects on GitHub.
+
+## 🌐 Connect with Me
+- [LinkedIn](https://linkedin.com/in/yourname)
+- [Twitter](https://twitter.com/yourusername)
+- [Personal Website](https://yourwebsite.com)
 
 ## 📈 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=l3Luel7evL&theme=radical)
