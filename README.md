@@ -104,14 +104,14 @@ expecially in the following environments:
 
 ## About Me
 
-I'm a passionate full-stack developer with a deep love for coding and building applications that impact users. Over the past few years, I've honed my skills in various web technologies, focusing on building scalable, responsive, and efficient web solutions.
+I'm a passionate full-stack developer with a deep love for coding and building applications that impact users.
 
-- 🔭 **Current Project**: Developing a personal finance management tool that helps users track expenses and visualize financial health.
-- 🌱 **Currently Learning**: Deep diving into TypeScript and GraphQL to enhance my front-end and API development skills.
-- 👯 **Looking for Collaborations**: Open-source contributions, especially in web development or JavaScript-related projects.
-- 💬 Ask me about JavaScript, React, or software development best practices.
-- 📫 How to reach me: your.email@example.com
-- ⚡ Fun fact: I love hiking and photography!
+Over the past few years, I've honed my skills in various web technologies, focusing on building scalable, responsive, and efficient web solutions.
+
+- 🔭 **Current Project**: Developing a personal portfolio.
+- 🌱 **Currently Learning**: Deep diving into TypeScript to enhance my front-end development skills.
+- 👯 **Looking for Collaborations**: Open-source contributions, especially in web development.
+- 💬 Ask me about anything.
 
 ---
 
@@ -153,19 +153,23 @@ I'm a passionate full-stack developer with a deep love for coding and building a
 
 ### [Portfolio Website]()
 
+![GitHub private repository](https://img.shields.io/badge/private-grey?logo=github&logoColor=white&style=flat&labelColor=000)
+
 A responsive personal website showcasing my projects and skills.
 
-Offers an updated resume and the chance to [contact me](/#contact) through an external API.
+Offers an updated resume and the chance to [contact me](/#contact) through an external [API](#mailer).
 
 Built and deployed as a **serverless function** under another Netlify project.
 
 - **Technologies**: ![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5&logoColor=E34F26), ![CSS](https://img.shields.io/badge/CSS-000?logo=css3&logoColor=1572B6), ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript&logoColor=F7DF1E), ![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=3178C6)
-- 🔗 [Live Demo](https://l3lue-portfolio.netlify.app)
-- 🔗 [Emailer (and others) documentation](https://l3lue-service.netlify.app)
+- 🔗 <a href="https://l3lue-portfolio.netlify.app" target="_blank">Live Demo</a>
+- 🔗 <a id="mailer" href="https://l3lue-service.netlify.app" target="_blank">Mailer (and others) documentation</a>
 
 ---
 
 ### [App]()
+
+![GitHub private repository](https://img.shields.io/badge/private-grey?logo=github&logoColor=white&style=flat&labelColor=000)
 
 A full-stack web application born for a chat now has noumerous funtionalities (not all deployed), still work in progress...
 
@@ -209,10 +213,12 @@ A full-stack web application born for a chat now has noumerous funtionalities (n
 
 ### Social
 
-- <a href="https://linkedin.com/in/yourname">![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)</a>
-- <a href=""><img src="https://img.shields.io/badge/-Stack%20Overflow-000?logo=stack-overflow&logoColor=FE7A16"></img></a>
+- <a href="www.linkedin.com/in/matteo-baruffaldi-b9bb9523b">![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)</a>
+- <a href="https://stackoverflow.com/users/20130938/matt"><img src="https://img.shields.io/badge/-Stack%20Overflow-000?logo=stack-overflow&logoColor=FE7A16"></img></a>
 
 <h2 id="visitors">👀 Visitor Count</h2>
+
+![Badge](https://komarev.com/ghpvc/?username=l3Luel7evL&color=blue)
 
 ![Visitor Count](https://profile-counter.glitch.me/l3Luel7evL/count.svg)
 
