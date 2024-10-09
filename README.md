@@ -213,7 +213,7 @@ A full-stack web application born for a chat now has noumerous funtionalities (n
 
 ### Social
 
-- <a href="www.linkedin.com/in/matteo-baruffaldi-b9bb9523b">![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)</a>
+- <a href="https://www.linkedin.com/in/matteo-baruffaldi-b9bb9523b">![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)</a>
 - <a href="https://stackoverflow.com/users/20130938/matt"><img src="https://img.shields.io/badge/-Stack%20Overflow-000?logo=stack-overflow&logoColor=FE7A16"></img></a>
 
 <h2 id="visitors">👀 Visitor Count</h2>
