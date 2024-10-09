@@ -30,7 +30,7 @@ A responsive personal website showcasing my projects and skills.
 
 ## 📊 GitHub Stats & Most Used Languages
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=l3Luel7evL&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l3Luel7evL&layout=compact&theme=radical&include_private=true)
+![Top Langs](https://github-readme-stats-theta-ruddy-68.vercel.app/api/top-langs/?username=l3Luel7evL&layout=compact&theme=radical&include_private=true)
 
 ## 🏆 Achievements
 - Completed [Udacity's Full Stack Web Developer Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd0044)
