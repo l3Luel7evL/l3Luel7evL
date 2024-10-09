@@ -14,11 +14,68 @@ expecially in the following environments:
 
 <small><i>Unpaired elements</i></smaill>
 
-|                                                              IDEE                                                              |                                                                                    Targeted Environments                                                                                     |
-| :----------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                     ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=fff)                     |                                           ![Web](https://custom-icon-badges.demolab.com/badge/Web-0078d7.svg?style=flat&logo=web&logoColor=white)                                            |
-|             ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000.svg?logo=intellij-idea&logoColor=white)             |            ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white) ,<br/>![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)            |
-| ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white) | ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white) ,<br/>![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0) |
+<div style="display: flex;justify-content: center">
+  <table>
+    <thead>
+      <tr>
+        <th style="text-align: center">IDEE</th>
+        <th style="text-align: center">Targeted Environments</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="text-align: center">
+          <img
+            src="https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&amp;logoColor=fff"
+            alt="Eclipse"
+          />
+        </td>
+        <td style="text-align: center">
+          <img
+            src="https://custom-icon-badges.demolab.com/badge/Web-0078d7.svg?style=flat&amp;logo=web&amp;logoColor=white"
+            alt="Web"
+          />
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: center">
+          <img
+            src="https://img.shields.io/badge/IntelliJIDEA-000.svg?logo=intellij-idea&amp;logoColor=white"
+            alt="IntelliJ IDEA"
+          />
+        </td>
+        <td style="text-align: center">
+          <img
+            src="https://img.shields.io/badge/Android-3DDC84?logo=android&amp;logoColor=white"
+            alt="Android"
+          />
+          ,<br /><img
+            src="https://img.shields.io/badge/iOS-000000?&amp;logo=apple&amp;logoColor=white"
+            alt="iOS"
+          />
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: center">
+          <img
+            src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&amp;logoColor=white"
+            alt="Visual Studio Code"
+          />
+        </td>
+        <td style="text-align: center">
+          <img
+            src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&amp;logoColor=white"
+            alt="Windows"
+          />
+          ,<br /><img
+            src="https://img.shields.io/badge/macOS-000000?logo=apple&amp;logoColor=F0F0F0"
+            alt="macOS"
+          />
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ---
 
