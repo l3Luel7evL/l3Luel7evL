@@ -4,23 +4,21 @@ I'm a passionate Full-Stack Developer who loves building innovative web applicat
 
 - [Hi there, I'm Matteo 👋](#hi-there-im-matteo-)
   - [About Me](#about-me)
-  - [Technical Skills 🛠️](#technical-skills-️)
-    - [🌐 Frontend Development](#-frontend-development)
-    - [🖥️ Backend Development](#️-backend-development)
-    - [Tools \& Platforms 🛠️](#tools--platforms-️)
-  - [Projects :rocket:](#projects-rocket)
+  - [Technical Skills ⚙️](#technical-skills-️)
+    - [🌐 Front-end Development](#frontend)
+    - [🖥️ Back-end Development](#️backend)
+    - [🛠️Tools \& Platforms](#tools-platforms)
+  - [Projects 🚧](#projects)
     - [Personal Finance Tracker](#personal-finance-tracker)
     - [Portfolio Website](#portfolio-website)
-  - [GitHub](#gh)
-    - [📊 GitHub Stats](#-github-stats)
-    - [📈 GitHub Streak](#-github-streak)
-    - [📅 Contributions](#-contributions)
-  - [Connect with Me :point_left:](#connect-with-me-point_left)
+  - [GitHub](#github)
+    - [📊 GitHub Stats](#github-stats)
+    - [📈 GitHub Streak](#github-streak)
+    - [📅 Contributions](#contributions)
+    - [🕖 WakaTime](#wakatime)
+  - [Connect with Me :point_left:](#connect)
     - [Social](#social)
-  - [🏷️ Technologies](#️-technologies)
-  - [👀 Visitor Count](#-visitor-count)
-  - [🗒️ Recent Activity](#️-recent-activity)
-  - [💬 Quote](#-quote)
+  - [👀 Visitor Count](#visitors)
 
 ## About Me
 
@@ -33,9 +31,9 @@ I'm a passionate full-stack developer with a deep love for coding and building a
 - 📫 How to reach me: your.email@example.com
 - ⚡ Fun fact: I love hiking and photography!
 
-## Technical Skills 🛠️
+## Technical Skills ⚙️
 
-### 🌐 Frontend Development
+<h3 id="frontend">🌐 Fron-tend Development</h3>
 
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript&logoColor=F7DF1E)
 - ![Angular](https://img.shields.io/badge/-Angular-000?style=flat&logo=Angular&logoColor=FF0000)
@@ -43,18 +41,18 @@ I'm a passionate full-stack developer with a deep love for coding and building a
 - ![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5&logoColor=E34F26)
 - ![CSS](https://img.shields.io/badge/CSS-000?logo=css3&logoColor=1572B6)
 
-### 🖥️ Backend Development
+<h3 id="backend">🖥️ Back-end Development</h3>
 
 - ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 - ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-000?logo=springboot&logoColor=6DB33F)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-000?logo=mongodb&logoColor=4DB33F)
 
-### Tools & Platforms 🛠️
+<h3 id="tools-platforms">🛠️ Tools & Platforms</h3>
 
 - ![Git](https://img.shields.io/badge/Git-000?logo=git&logoColor=F05032)
 - ![Docker](https://img.shields.io/badge/Docker-000?logo=docker&logoColor=2496ED)
 
-## Projects :rocket:
+<h2 id="projects">Projects 🚧</h2>
 
 ### [Personal Finance Tracker](https://github.com/yourusername/finance-tracker)
 
@@ -71,9 +69,9 @@ A responsive personal website showcasing my projects and skills.
 - **Technologies**: HTML, CSS, JavaScript
 - [Live Demo](https://yourportfolio.com)
 
-<h2 id="gh">GitHub <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/></h2>
+<h2 id="github">GitHub <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/></h2>
 
-### 📊 GitHub Stats
+<h3 id="github-stats">📊 GitHub Stats</h3>
 
 <img src="https://github-readme-stats-rose-five-48.vercel.app/api?username=l3Luel7evL&show_icons=true&include_private=true&theme=radical" width="100%" height="170"/>
 
@@ -81,17 +79,21 @@ A responsive personal website showcasing my projects and skills.
 
 <img src="https://github-readme-stats-rose-five-48.vercel.app/api/top-langs?username=l3Luel7evL&count_private=true&langs_count=10&layout=compact&theme=radical" width="100%" height="230"/>
 
-### 📈 GitHub Streak
+<h3 id="github-streak">📈 GitHub Streak</h3>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=l3Luel7evL&theme=radical" width="100%" height="150"/>
 
-### 📅 Contributions
+<h3 id="contributions">📅 Contributions</h3>
 
 ![Contributions Graph](https://ghchart.rshah.org/l3Luel7evL)
 
-![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=l3Luel7evL&theme=radical)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=l3Luel7evL&theme=radical" width="100%" height="175"/>
 
-## Connect with Me :point_left:
+<h3 id="wakatime">🕖 WakaTime</h3>
+
+<img src="https://github-readme-stats-rose-five-48.vercel.app/api/wakatime?username=l3Luel7evL&layout=compact&theme=radical" width="100%" height="100"/>
+
+<h2 id="connect">Connect with Me :point_left:</h2>
 
 - [Personal Website](https://yourwebsite.com)
 
@@ -100,14 +102,6 @@ A responsive personal website showcasing my projects and skills.
 - <a href="https://linkedin.com/in/yourname">![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)</a>
 - <a href=""><img src="https://img.shields.io/badge/-Stack%20Overflow-000?logo=stack-overflow&logoColor=FE7A16"></img></a>
 
-## 👀 Visitor Count
+<h2 id="visitors">👀 Visitor Count</h2>
 
 ![Visitor Count](https://profile-counter.glitch.me/l3Luel7evL/count.svg)
-
-## 🗒️ Recent Activity
-
-![Recent Activity](https://github-readme-activity-graph.cyclic.app/graph?username=l3Luel7evL&theme=radical)
-
-## 💬 Quote
-
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
