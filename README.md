@@ -204,7 +204,7 @@ A full-stack web application born for a chat now has noumerous funtionalities (n
 
 <h3 id="wakatime">🕖 WakaTime</h3>
 
-<img src="https://github-readme-stats-rose-five-48.vercel.app/api/wakatime?username=l3Luel7evL&layout=compact&theme=radical" width="100%" height="100"/>
+<img src="https://github-readme-stats-rose-five-48.vercel.app/api/wakatime?username=l3Luel7evL&theme=radical" width="100%" height="100"/>
 <!-- *** END GitHub *** -->
 
 <h2 id="connect">Connect with Me 👈</h2>
