@@ -118,6 +118,8 @@ Over the past few years, I've honed my skills in various web technologies, focus
 <!-- *** START SKILLS *** -->
 <h2 id="skills">Technical Skills ⚙️</h2>
 
+<details>
+<summary>Skills</summary>
 <h3 id="frontend">🌐 Front-end Development</h3>
 
 - ![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5&logoColor=E34F26)
@@ -144,6 +146,7 @@ Over the past few years, I've honed my skills in various web technologies, focus
 - ![Git](https://img.shields.io/badge/Git-000?logo=git&logoColor=F05032)
 - ![Docker](https://img.shields.io/badge/Docker-000?logo=docker&logoColor=2496ED)
 - ![npm](https://img.shields.io/badge/npm-000?logo=npm&logoColor=CB3837)
+</details>
 <!-- *** END SKILLS *** -->
 
 ---
@@ -153,7 +156,7 @@ Over the past few years, I've honed my skills in various web technologies, focus
 
 ### [Portfolio Website]()
 
-![GitHub private repository](https://img.shields.io/badge/private-grey?logo=github&logoColor=white&style=flat&labelColor=000)
+![GitHub private repository](https://img.shields.io/badge/private-grey?logo=github&logoColor=white&style=flat&labelColor=000) <span style="position: relative; top: -4px" title="Paused Development">🟡</span>
 
 A responsive personal website showcasing my projects and skills.
 
@@ -169,7 +172,7 @@ Built and deployed as a **serverless function** under another Netlify project.
 
 ### [App]()
 
-![GitHub private repository](https://img.shields.io/badge/private-grey?logo=github&logoColor=white&style=flat&labelColor=000)
+![GitHub private repository](https://img.shields.io/badge/private-grey?logo=github&logoColor=white&style=flat&labelColor=000) <span style="position: relative; top: -4px" title="Arrested Development">🔴</span>
 
 A full-stack web application born for a chat now has noumerous funtionalities (not all deployed), still work in progress...
 
@@ -181,6 +184,9 @@ A full-stack web application born for a chat now has noumerous funtionalities (n
 
 <!-- *** START GitHub *** -->
 <h2 id="github">GitHub <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/></h2>
+
+<details>
+<summary>Stats</summary>
 
 <h3 id="github-stats">📊 GitHub Stats</h3>
 
@@ -205,6 +211,7 @@ A full-stack web application born for a chat now has noumerous funtionalities (n
 <h3 id="wakatime">🕖 WakaTime</h3>
 
 <img src="https://github-readme-stats-rose-five-48.vercel.app/api/wakatime?username=l3Luel7evL&theme=radical" width="100%" height="250"/>
+</details>
 <!-- *** END GitHub *** -->
 
 <h2 id="connect">Connect with Me 👈</h2>
